@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /login
+Disallow: /signup
+Disallow: /profile
+Disallow: /requests
+
+Sitemap: https://skillswap-five-green.vercel.app/sitemap.xml
